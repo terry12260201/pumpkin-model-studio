@@ -1,0 +1,16 @@
+node_modules/
+# 自測產物（大檔、含 GG 內部截圖）
+_crew/check/shots/
+_crew/check/gg/
+_crew/check/look/
+_crew/check/export/
+_crew/check/builder/
+_crew/check/qa/dl/
+_crew/check/qa/gg/
+_crew/check/ref/soups/
+_crew/check/ref/*.glb
+_crew/check/ref/*.stl
+_crew/check/ref/formats/
+_crew/check/lab/out/
+_crew/check/smoke-log.txt
+*.log
